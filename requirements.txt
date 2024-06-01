@@ -2,5 +2,5 @@ pandas
 numpy
 seaborn
 flask
-
-# -e .
+scikit-learn
+-e .
